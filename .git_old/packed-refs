@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+bfabb104145eab2dd988a916b898db4b0eef3d57 refs/remotes/origin/circleci-project-setup
+9df3a0c203841d685eadb518dc040209dd23f5e6 refs/remotes/origin/dockerfile-patch
+1c19e025762abdb7acd344e8704bc23f925ec11f refs/remotes/origin/docs-demo
+9fac81486511c5aae3a280df25880ab4e6653105 refs/remotes/origin/master
+68ece3ca13328ae98530b1e3a42f4f14f856a98c refs/tags/v1.0.1
+^48f7eb6d5cbe28c2759eb0e70eedc55e86c86b7b
+2df6f791008b656ef3c23f5e4cd88ba7eb472bf3 refs/tags/v1.0.2
+^9df3a0c203841d685eadb518dc040209dd23f5e6
